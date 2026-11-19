@@ -1,7 +1,10 @@
-# CloudEagle.ai — AI Governance & Spend Limit Dashboard
+# CloudEagle.ai — AI Governance Platform & Spend Limits Dashboard
 ## Associate Product Manager (APM) Take-Home Assignment Submission
 
-This repository contains the complete feature scoping package and interactive prototype for the **CloudEagle.ai APM Take-Home Assignment**.
+> **🚀 Live Interactive Application:** [https://cloudeagle-assignment-nine.vercel.app](https://cloudeagle-assignment-nine.vercel.app)  
+> **📦 GitHub Repository:** [https://github.com/rakeshks2k/cloudeagle-assignment](https://github.com/rakeshks2k/cloudeagle-assignment)
+
+This repository contains the complete product strategy, technical API architecture, and interactive prototype for the **CloudEagle.ai APM Take-Home Assignment**.
 
 ---
 
